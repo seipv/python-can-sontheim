@@ -8,13 +8,13 @@ assignees: MattWoodhead
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A play skript for files created with sie_canfox_logger_example.py 
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+A can log file created with sie_canfox_logger_example.py that can be played again and again without stop or only once or n times. File size 10Mb upp to 1Gb.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+NA.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+NA.
